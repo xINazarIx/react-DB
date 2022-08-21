@@ -1,0 +1,13 @@
+.item-list {
+  margin-bottom: 1rem;
+}
+
+.item-list .list-group-item {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.item-list .list-group-item:hover {
+  background-color: #444;
+}
